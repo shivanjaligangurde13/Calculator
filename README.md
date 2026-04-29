@@ -1,4 +1,4 @@
-# 🧮 Mini Calculator
+#  Mini Calculator
 
 A simple and responsive mini calculator built using **HTML, CSS, and JavaScript**.  
 It performs basic arithmetic operations with a clean user interface.
